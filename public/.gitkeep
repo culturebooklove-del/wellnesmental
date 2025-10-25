@@ -1,0 +1,7 @@
+app/
+  page.tsx
+public/
+  .gitkeep
+package.json
+next.config.js
+...
